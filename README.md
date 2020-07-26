@@ -1,2 +1,4 @@
-# Ultimate Bot
- The avatar code is from the user haq, as for the other features that this bot will have, I will try my best to make the code myself, otherwise i will borrow the code from other discord bots
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg) ](LICENSE)
+
+# avatar-bot
+Discord bot that allows you to get users avatars by mentioning them. For now, this is all my bot has got, but i will keep updating it, and I will try to make it the best bot out there.
